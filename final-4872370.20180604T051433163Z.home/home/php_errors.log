@@ -1,0 +1,129 @@
+[31-May-2017 18:30:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/app.php on line 8
+[31-May-2017 18:32:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/app.php on line 8
+[01-Jun-2017 13:22:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/app.php on line 11
+[01-Jun-2017 13:23:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/app.php on line 11
+[03-Jun-2017 17:54:30 UTC] PHP Fatal error:  Undefined class constant 'FFETCH_NUM' in /home/ubuntu/workspace/app.php on line 63
+[03-Jun-2017 17:54:30 UTC] PHP Stack trace:
+[03-Jun-2017 17:54:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/app.php:0
+[03-Jun-2017 17:54:30 UTC] PHP   2. playlist() /home/ubuntu/workspace/app.php:82
+[04-Jun-2017 15:33:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/sign.php on line 59
+[04-Jun-2017 15:36:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/sign.php on line 59
+[04-Jun-2017 15:44:28 UTC] PHP Fatal error:  Call to undefined function loadHTMLFile() in /home/ubuntu/workspace/sign.php on line 15
+[04-Jun-2017 15:44:28 UTC] PHP Stack trace:
+[04-Jun-2017 15:44:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 15:44:28 UTC] PHP   2. registerNewUser() /home/ubuntu/workspace/sign.php:7
+[04-Jun-2017 15:46:20 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Document is empty in home.html, line: 1 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 15:46:20 UTC] PHP Stack trace:
+[04-Jun-2017 15:46:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 15:46:20 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 15:46:20 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:42:39 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 51 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:42:39 UTC] PHP Stack trace:
+[04-Jun-2017 22:42:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:42:39 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:42:39 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:42:39 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 55 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:42:39 UTC] PHP Stack trace:
+[04-Jun-2017 22:42:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:42:39 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:42:39 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:42:39 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 60 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:42:39 UTC] PHP Stack trace:
+[04-Jun-2017 22:42:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:42:39 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:42:39 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:42:39 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 65 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:42:39 UTC] PHP Stack trace:
+[04-Jun-2017 22:42:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:42:39 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:42:39 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:44:39 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 51 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:44:39 UTC] PHP Stack trace:
+[04-Jun-2017 22:44:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:44:39 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:44:39 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:44:39 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 55 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:44:39 UTC] PHP Stack trace:
+[04-Jun-2017 22:44:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:44:39 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:44:39 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:44:39 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 60 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:44:39 UTC] PHP Stack trace:
+[04-Jun-2017 22:44:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:44:39 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:44:39 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:44:39 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 65 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:44:39 UTC] PHP Stack trace:
+[04-Jun-2017 22:44:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:44:39 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:44:39 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:46:26 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 51 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:46:26 UTC] PHP Stack trace:
+[04-Jun-2017 22:46:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:46:26 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:46:26 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:46:26 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 55 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:46:26 UTC] PHP Stack trace:
+[04-Jun-2017 22:46:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:46:26 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:46:26 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:46:26 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 60 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:46:26 UTC] PHP Stack trace:
+[04-Jun-2017 22:46:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:46:26 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:46:26 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:46:26 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 65 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:46:26 UTC] PHP Stack trace:
+[04-Jun-2017 22:46:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:46:26 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:46:26 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:51:23 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): End tag : expected '>' in home.html, line: 51 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:51:23 UTC] PHP Stack trace:
+[04-Jun-2017 22:51:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:51:23 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:51:23 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:51:23 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 51 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:51:23 UTC] PHP Stack trace:
+[04-Jun-2017 22:51:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:51:23 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:51:23 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:51:23 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): End tag : expected '>' in home.html, line: 55 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:51:23 UTC] PHP Stack trace:
+[04-Jun-2017 22:51:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:51:23 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:51:23 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[04-Jun-2017 22:51:23 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Unexpected end tag : br in home.html, line: 55 in /home/ubuntu/workspace/sign.php on line 40
+[04-Jun-2017 22:51:23 UTC] PHP Stack trace:
+[04-Jun-2017 22:51:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[04-Jun-2017 22:51:23 UTC] PHP   2. loginUser() /home/ubuntu/workspace/sign.php:8
+[04-Jun-2017 22:51:23 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:40
+[05-Jun-2017 00:56:29 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/take.php on line 5
+[05-Jun-2017 01:22:13 UTC] PHP Parse error:  syntax error, unexpected '$cmd' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/take.php on line 8
+[05-Jun-2017 04:25:07 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Tag audio invalid in signin.html, line: 41 in /home/ubuntu/workspace/sign.php on line 14
+[05-Jun-2017 04:25:07 UTC] PHP Stack trace:
+[05-Jun-2017 04:25:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[05-Jun-2017 04:25:07 UTC] PHP   2. registerNewUser() /home/ubuntu/workspace/sign.php:6
+[05-Jun-2017 04:25:07 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:14
+[05-Jun-2017 04:25:07 UTC] PHP Warning:  DOMDocument::loadHTMLFile(): Tag source invalid in signin.html, line: 42 in /home/ubuntu/workspace/sign.php on line 14
+[05-Jun-2017 04:25:07 UTC] PHP Stack trace:
+[05-Jun-2017 04:25:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/sign.php:0
+[05-Jun-2017 04:25:07 UTC] PHP   2. registerNewUser() /home/ubuntu/workspace/sign.php:6
+[05-Jun-2017 04:25:07 UTC] PHP   3. DOMDocument->loadHTMLFile() /home/ubuntu/workspace/sign.php:14
+[09-Jun-2017 02:26:05 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/ubuntu/workspace/app.php on line 89
+[09-Jun-2017 02:26:26 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/ubuntu/workspace/app.php on line 89
+[09-Aug-2017 16:37:18 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/ubuntu/workspace/app.php on line 89
+[09-Aug-2017 16:37:18 UTC] PHP Stack trace:
+[09-Aug-2017 16:37:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/app.php:0
+[09-Aug-2017 16:37:18 UTC] PHP   2. playlist() /home/ubuntu/workspace/app.php:102
+[09-Aug-2017 16:37:25 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/ubuntu/workspace/app.php on line 89
+[09-Aug-2017 16:37:25 UTC] PHP Stack trace:
+[09-Aug-2017 16:37:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/app.php:0
+[09-Aug-2017 16:37:25 UTC] PHP   2. playlist() /home/ubuntu/workspace/app.php:102
+[05-Oct-2017 22:14:41 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/ubuntu/workspace/app.php on line 89
+[05-Oct-2017 22:14:41 UTC] PHP Stack trace:
+[05-Oct-2017 22:14:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/app.php:0
+[05-Oct-2017 22:14:41 UTC] PHP   2. playlist() /home/ubuntu/workspace/app.php:102
+[05-Oct-2017 22:16:07 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/ubuntu/workspace/app.php on line 89
+[05-Oct-2017 22:16:07 UTC] PHP Stack trace:
+[05-Oct-2017 22:16:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/app.php:0
+[05-Oct-2017 22:16:07 UTC] PHP   2. playlist() /home/ubuntu/workspace/app.php:102

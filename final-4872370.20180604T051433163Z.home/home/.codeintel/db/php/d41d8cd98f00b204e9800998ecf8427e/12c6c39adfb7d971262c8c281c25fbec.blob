@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="take.php" src="take.php"><variable citdl="string" line="2" name="hostname" /><variable citdl="string" line="3" name="db" /><variable citdl="PDO" line="4" name="conn" /><variable citdl="string" line="9" name="cmd" /><variable citdl="conn.prepare()" line="10" name="result" /></scope>

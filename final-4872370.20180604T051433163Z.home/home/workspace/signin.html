@@ -1,0 +1,45 @@
+<html>
+	<head>
+		<title></title>
+		<style>
+			body
+			{
+				background-image:url(steez.jpg);
+			}
+			div
+			{
+				position:fixed;
+				margin-left:60%;
+				margin-top:20%;
+				font-size:50px;
+				color:orange;
+			}
+		</style>
+		<script>
+			function initialize()
+			{
+				submitButton = document.getElementById("submitbtn");
+			}
+			
+			function changeButton(cbox)
+			{
+				if (cbox.checked)
+					submitButton.value = "Register";
+				else
+					submitButton.value = "Login";
+			}
+		</script>
+	</head>
+		
+	<body onload = "initialize();">
+		<div>
+			<form method = "post" action = "sign.php">
+				Username <input type = "text" name = "uname" /><br />
+				Password <input type = "text" name = "pword" /><br />
+				New User <input onchange = "changeButton(this)" type = "checkbox" name = "newuser" /><br />
+				<input type = "submit" value = "Login" id = "submitbtn" />
+			</form>
+		</div>
+		
+	</body>
+</html>
